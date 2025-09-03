@@ -126,8 +126,7 @@ function Services() {
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          As long as those opportunities involve giving us money to re-purpose
-          old projects — we can come up with an endless number of those.
+            Compliance doesn’t have to be overwhelming. Partner with SEK Cybersecurity LLC to build a stronger security foundation.
         </p>
       </SectionIntro>
       <Container className="mt-16">
@@ -142,24 +141,14 @@ function Services() {
             </FadeIn>
           </div>
           <List className="mt-16 lg:mt-0 lg:w-1/2 lg:min-w-132 lg:pl-4">
-            <ListItem title="Web development">
-              We specialise in crafting beautiful, high quality marketing pages.
-              The rest of the website will be a shell that uses lorem ipsum
-              everywhere.
+            <ListItem title="CMMC Consulting">
+                Our CMMC consulting services provide comprehensive gap assessments, NIST 800-171 compliance support, and tailored SSP builds to ensure your organization achieves and maintains Level 1 & Level 2 readiness with robust remediation and continuous monitoring strategies.
             </ListItem>
-            <ListItem title="Application development">
-              We have a team of skilled developers who are experts in the latest
-              app frameworks, like Angular 1 and Google Web Toolkit.
+            <ListItem title="vCISO Services">
+                Our executive-level cybersecurity leadership delivers expert technical guidance to safeguard your organization.
             </ListItem>
-            <ListItem title="E-commerce">
-              We are at the forefront of modern e-commerce development. Which
-              mainly means adding your logo to the Shopify store template we’ve
-              used for the past six years.
-            </ListItem>
-            <ListItem title="Custom content management">
-              At Studio we understand the importance of having a robust and
-              customised CMS. That’s why we run all of our client projects out
-              of a single, enormous Joomla instance.
+            <ListItem title="FedRAMP & RMF Support">
+                We specialize in FedRAMP and NIST RMF package development, providing expert support for ATO compliance.
             </ListItem>
           </List>
         </div>
@@ -181,12 +170,11 @@ export default async function Home() {
       <Container className="mt-24 sm:mt-32 md:mt-56">
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-balance text-neutral-950 sm:text-7xl">
-            Award-winning development studio based in Denmark.
+            Cybersecurity compliance made simple.
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            We are a development studio working at the intersection of design
-            and technology. It’s a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+              Helping DoD contractors achieve and maintain CMMC, RMF and FedRAMP compliance with
+              confidence.
           </p>
         </FadeIn>
       </Container>
