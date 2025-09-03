@@ -2,8 +2,8 @@ import '@/styles/tailwind.css'
 
 export const metadata = {
   title: {
-    template: '%s - Studio',
-    default: 'Studio - Award winning developer studio based in Denmark',
+    template: 'SEK Cybersecurity',
+    default: 'SEK Cybersecurity | Helping DoD contractors achieve and maintain CMMC, RMF, and FedRAMP compliance with confidence.',
   },
 }
 

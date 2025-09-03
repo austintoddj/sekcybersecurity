@@ -14,6 +14,7 @@ import logoGreenLife from '@/images/clients/green-life/logo-light.svg'
 import logoHomeWork from '@/images/clients/home-work/logo-light.svg'
 import logoMailSmirk from '@/images/clients/mail-smirk/logo-light.svg'
 import logoNorthAdventures from '@/images/clients/north-adventures/logo-light.svg'
+import logoBoeingDark from '@/images/clients/boeing/logo-dark.svg'
 import logoPhobiaDark from '@/images/clients/phobia/logo-dark.svg'
 import logoPhobiaLight from '@/images/clients/phobia/logo-light.svg'
 import logoUnseal from '@/images/clients/unseal/logo-light.svg'
@@ -185,11 +186,9 @@ export default async function Home() {
 
       <Testimonial
         className="mt-24 sm:mt-32 lg:mt-40"
-        client={{ name: 'Phobia', logo: logoPhobiaDark }}
+        client={{ name: 'Boeing', logo: logoBoeingDark }}
       >
-        The team at Studio went above and beyond with our onboarding, even
-        finding a way to access the user’s microphone without triggering one of
-        those annoying permission dialogs.
+        As a CISO at a mid-sized defense contractor, I was daunted by CMMC Level 2 compliance. The team's gap assessments, NIST 800-171 support, and SSP builds made remediation effortless, backed by top-tier cybersecurity leadership.
       </Testimonial>
 
       <Services />
