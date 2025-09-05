@@ -188,7 +188,7 @@ export default async function Home() {
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: 'Boeing', logo: logoBoeingDark }}
       >
-        As a CISO at a mid-sized defense contractor, I was daunted by CMMC Level 2 compliance. The team's gap assessments, NIST 800-171 support, and SSP builds made remediation effortless, backed by top-tier cybersecurity leadership.
+        As a CISO at a mid-sized defense contractor, I was daunted by CMMC Level 2 compliance. The team&apos;s gap assessments, NIST 800-171 support, and SSP builds made remediation effortless, backed by top-tier cybersecurity leadership.
       </Testimonial>
 
       <Services />
